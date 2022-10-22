@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm yungjaki</h1>
 <h3 align="center">Electronic Enginneer student</h3>
-<h3 align="center">Age: 15</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=h4xton&label=Profile%20views&color=0e75b6&style=flat" alt="h4xton" /> </p>
+<h3 align="center">Age: 14</h3>
 
 <p align="center"> - 🔭 I’m currently working on Mercury</p>
 
