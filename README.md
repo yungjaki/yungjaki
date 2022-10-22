@@ -10,7 +10,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://discordapp.com/users/759715979549868032">
+    <a href="https://discordapp.com/users/801024130526085121">
    <img alt="Discord" src="https://img.shields.io/badge/yungjaki%232009-Discord-%231c03fc'"></a>  
 </p>
 
