@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm yungjaki</h1>
 <h3 align="center">Electronic Enginneer student</h3>
-<h3 align="center">Age: 14</h3>
+<h3 align="center">Age: 16</h3>
 
 <p align="center"> - 🔭 I’m currently working on Mercury</p>
 
