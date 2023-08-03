@@ -2,9 +2,9 @@
 <h3 align="center">Electronic Enginneer student</h3>
 <h3 align="center">Age: 16</h3>
 
-<p align="center"> - 🔭 I’m currently working on Mercury</p>
+<p align="center"> - 🔭 I’m currently working on Technocom.bg</p>
 
-<p align="center">- 🌱 I’m currently learning C#</p>
+<p align="center">- 🌱 I’m currently learning JavaScript</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
