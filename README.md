@@ -6,8 +6,13 @@
 
 <p align="center">- 🌱 I’m currently learning JavaScript</p>
 
+<h3 align="left">Connect with me:</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="[https://discordapp.com/users/801024130526085121](https://dimitardimitrov.vercel.app/)">
+   <img alt="website" src="'"></a>
+</p>
+<p align="left">
     <a href="https://discordapp.com/users/801024130526085121">
    <img alt="Discord" src="https://img.shields.io/badge/yungjaki%232009-Discord-%231c03fc'"></a>  
 </p>
