@@ -9,8 +9,8 @@
 <h3 align="left">Connect with me:</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="[https://discordapp.com/users/801024130526085121](https://dimitardimitrov.vercel.app/)">
-   <img alt="website" src="'"></a>
+   <a href="https://dimitardimitrov.vercel.app">
+   <img alt="website" src="https://img.shields.io/website"></a>
 </p>
 <p align="left">
     <a href="https://discordapp.com/users/801024130526085121">
