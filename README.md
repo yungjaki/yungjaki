@@ -2,7 +2,7 @@
 <h3 align="center">Application programming student</h3>
 <h3 align="center">Age: 17</h3>
 
-<p align="center"> - 🔭 I’m currently working on .....</p>
+<p align="center"> - 🔭 I’m currently working on pavnailedit</p>
 
 <p align="center">- 🌱 I’m currently learning JavaScript</p>
 
