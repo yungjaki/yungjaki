@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#6C63FF">yungjaki</span></h1>
-<h3 align="center">💻 Application Programming Student | 17 y/o</h3>
+<h3 align="center">💻 Application Programming Student | 18 y/o</h3>
 
 ---
 
